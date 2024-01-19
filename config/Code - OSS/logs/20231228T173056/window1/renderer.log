@@ -1,0 +1,12 @@
+2023-12-28 17:30:57.587 [info] Started local extension host with pid 8163.
+2023-12-28 17:31:00.443 [info] [perf] Render performance baseline is 32ms
+2023-12-28 17:33:08.001 [error] Error: Server returned 500
+    at o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:676:29386)
+    at te.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:765:200803)
+    at async te.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:765:198205)
+    at async _ (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:765:197213)
+    at async te.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:765:197435)
+    at async ne.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2709:11929)
+    at async we.Ac (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2645:23308)
+    at async we.mc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2645:14634)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2645:12933

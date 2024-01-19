@@ -1,0 +1,23 @@
+2024-01-14 14:06:07.918 [info] Deleted uninstalled extension from disk catppuccin.catppuccin-vsc /home/adam/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.8.2-universal
+2024-01-14 14:06:08.022 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/adam/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.8.2-universal.246498cf.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/adam/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.8.2-universal.246498cf.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-14 14:06:11.427 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-01-14 14:06:12.514 [info] Installing extension: catppuccin.catppuccin-vsc
+2024-01-14 14:06:14.374 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc
+2024-01-14 14:06:14.395 [info] Extracted extension to file:///home/adam/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.0-universal: catppuccin.catppuccin-vsc
+2024-01-14 14:06:14.397 [info] Renamed to /home/adam/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.0-universal
+2024-01-14 14:06:14.397 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2024-01-14 14:06:14.401 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2024-01-14 14:06:14.403 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-3.10.1-universal
+2024-01-14 14:06:14.477 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/adam/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/adam/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
